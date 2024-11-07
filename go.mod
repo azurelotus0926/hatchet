@@ -35,12 +35,12 @@ require (
 	go.opentelemetry.io/otel/sdk v1.31.0
 	go.opentelemetry.io/otel/trace v1.31.0
 	go.uber.org/goleak v1.3.0
-	google.golang.org/api v0.204.0
+	google.golang.org/api v0.205.0
 	sigs.k8s.io/yaml v1.4.0
 )
 
 require (
-	cloud.google.com/go/auth v0.10.0 // indirect
+	cloud.google.com/go/auth v0.10.1 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.5 // indirect
 	cloud.google.com/go/compute/metadata v0.5.2 // indirect
 	github.com/apapsch/go-jsonmerge/v2 v2.0.0 // indirect
