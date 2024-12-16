@@ -19,7 +19,7 @@ require (
 	github.com/jackc/pgx/v5 v5.7.1
 	github.com/jackc/puddle/v2 v2.2.2
 	github.com/joho/godotenv v1.5.1
-	github.com/labstack/echo/v4 v4.13.0
+	github.com/labstack/echo/v4 v4.13.2
 	github.com/oapi-codegen/runtime v1.1.1
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/posthog/posthog-go v0.0.0-20240327112532-87b23fe11103
