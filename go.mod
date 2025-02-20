@@ -1,8 +1,6 @@
 module github.com/hatchet-dev/hatchet
 
 go 1.21
-toolchain go1.23.0
-
 require (
 	github.com/Masterminds/semver/v3 v3.3.1
 	github.com/creasty/defaults v1.8.0
@@ -35,7 +33,7 @@ require (
 	go.opentelemetry.io/otel/sdk v1.34.0
 	go.opentelemetry.io/otel/trace v1.34.0
 	go.uber.org/goleak v1.3.0
-	google.golang.org/api v0.221.0
+	google.golang.org/api v0.222.0
 	sigs.k8s.io/yaml v1.4.0
 )
 
@@ -128,7 +126,7 @@ require (
 	golang.org/x/sync v0.11.0
 	golang.org/x/sys v0.30.0 // indirect
 	golang.org/x/text v0.22.0
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250207221924-e9438ea467c6 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250212204824-5a70512c5d8b // indirect
 	google.golang.org/grpc v1.70.0
 	google.golang.org/protobuf v1.36.5
 	gopkg.in/ini.v1 v1.67.0 // indirect
