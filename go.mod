@@ -1,7 +1,7 @@
 module github.com/hatchet-dev/hatchet
 
 go 1.21
-toolchain go1.23.6
+toolchain go1.24.1
 
 require (
 	github.com/Masterminds/semver/v3 v3.3.1
@@ -35,7 +35,7 @@ require (
 	go.opentelemetry.io/otel/sdk v1.35.0
 	go.opentelemetry.io/otel/trace v1.35.0
 	go.uber.org/goleak v1.3.0
-	google.golang.org/api v0.225.0
+	google.golang.org/api v0.226.0
 	sigs.k8s.io/yaml v1.4.0
 )
 
