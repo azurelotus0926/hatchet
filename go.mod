@@ -17,7 +17,7 @@ require (
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/hatchet-dev/timediff v0.0.4
 	github.com/jackc/pgx-zerolog v0.0.0-20230315001418-f978528409eb
-	github.com/jackc/pgx/v5 v5.7.2
+	github.com/jackc/pgx/v5 v5.7.4
 	github.com/jackc/puddle/v2 v2.2.2
 	github.com/joho/godotenv v1.5.1
 	github.com/labstack/echo/v4 v4.13.3
@@ -94,7 +94,7 @@ require (
 
 require (
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
-	github.com/exaring/otelpgx v0.9.2
+	github.com/exaring/otelpgx v0.9.3
 	github.com/fsnotify/fsnotify v1.8.0 // indirect
 	github.com/getsentry/sentry-go v0.32.0
 	github.com/go-chi/chi v1.5.5
