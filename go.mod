@@ -20,7 +20,7 @@ require (
 	github.com/jackc/pgx/v5 v5.7.5
 	github.com/jackc/puddle/v2 v2.2.2
 	github.com/joho/godotenv v1.5.1
-	github.com/labstack/echo/v4 v4.13.3
+	github.com/labstack/echo/v4 v4.13.4
 	github.com/oapi-codegen/runtime v1.1.1
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/posthog/posthog-go v0.0.0-20240327112532-87b23fe11103
@@ -106,7 +106,7 @@ require (
 	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.3.2
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/invopop/jsonschema v0.13.0
-	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/pelletier/go-toml/v2 v2.2.3 // indirect
